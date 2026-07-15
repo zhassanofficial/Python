@@ -1,0 +1,5 @@
+#print("hello World")
+a = (2,1,0,4,6,0)
+print(type(a))
+print(a.count(0))
+print(sum(a))
